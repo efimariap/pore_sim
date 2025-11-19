@@ -10,10 +10,10 @@ This repository contains MATLAB code for generating periodic pore surfaces, dete
 Key parameters inside the script include:
 
 * **Nx, Ny** — size of the generated surface
-* **meandgpx, meandgpy** — spacing between mound centers
-* **meanwgpx, meanwgpy** — mound width
-* **meanhgp** — mound height
-* **sdhgp_values** — standard deviation of mound heights
+* **meandgpx, meandgpy** — spacing between pore centers
+* **meanwgpx, meanwgpy** — pore width
+* **meanhgp** — pore depth
+* **sdhgp_values** — standard deviation of pore heights
 * **thresholds** — threshold sweep from 0.05 to 0.95
 * **numIterations** — repeats of each condition
 
